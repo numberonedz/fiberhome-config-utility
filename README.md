@@ -1,7 +1,6 @@
 # Fiberhome Config Utility
-This tool decrypts configuration file dowloaded from the ONU's web interface and parses/decrypts/prints all encrypted values it may contain
+This tool decrypts configuration file downloaded from the ONT's web interface and parses/decrypts/prints all encrypted values it may contain
 
-Tested with Fiberhome HG6145F1 RP4423 available in Algeria
+Tested with Fiberhome HG6145F1 / firmware version RP4423 available in Algeria.
 
-
-<img width="884" height="327" alt="capture" src="https://github.com/user-attachments/assets/6d3b0684-bac7-45f7-bf41-920023043c61" />
+<img width="875" height="472" alt="cap" src="https://github.com/user-attachments/assets/2db9bfb8-f225-4658-b670-5f4fa2a70871" />
